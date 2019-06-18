@@ -1,24 +1,14 @@
-# README
+# Toy app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a project for the Microverse main curriculum
 
-Things you may want to cover:
+Author:
 
-* Ruby version
+* Name:
+Bernardo Garza
 
-* System dependencies
+* contact:
+bernardo.g.landa@gmail.com
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Live demo:
+https://glacial-sierra-49013.herokuapp.com/
