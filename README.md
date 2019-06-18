@@ -7,7 +7,7 @@ Author:
 * Name:
 Bernardo Garza
 
-* contact:
+* Contact:
 bernardo.g.landa@gmail.com
 
 * Live demo:
